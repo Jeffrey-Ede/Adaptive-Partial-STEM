@@ -1,0 +1,1 @@
+Follows 126. Now DNC with 80 size 5 steps. Decreased size of hidden layers to compensate.
