@@ -1,0 +1,1 @@
+Follows 137. Losses no longer normalized by running mean and no modification to backpropagation from our default. Intended to be a reference for future experiments.
