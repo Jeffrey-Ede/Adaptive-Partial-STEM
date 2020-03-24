@@ -1,0 +1,1 @@
+Self competition. Actor learning rate 0.0003.

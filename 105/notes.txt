@@ -1,0 +1,1 @@
+Projection lstm2. 128 -> 32.

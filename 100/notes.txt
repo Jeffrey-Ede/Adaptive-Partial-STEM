@@ -1,0 +1,1 @@
+Learning rate 0.001. Not self competition.

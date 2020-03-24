@@ -1,0 +1,1 @@
+Both actor and critic learning rate is 0.0003. Not self-competition.
