@@ -1,0 +1,1 @@
+Follows 121. Increase steps 1 -> sqrt(2). Set style loss to 0 (due to missing from library).

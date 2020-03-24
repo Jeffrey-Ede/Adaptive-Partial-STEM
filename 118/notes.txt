@@ -1,0 +1,1 @@
+Follows 117 (but not directly compareable). Crops from STEM images; not downsampled STEM images. Also, using L2 decay of 10^-5 as it's better than 10^-4 in the later stages of training.

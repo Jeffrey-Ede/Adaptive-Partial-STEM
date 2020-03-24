@@ -1,0 +1,1 @@
+Repeat of 119 due to error spike. Investigating no generator learning rate envelope.
