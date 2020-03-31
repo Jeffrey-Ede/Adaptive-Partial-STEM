@@ -1,0 +1,1 @@
+Decreasing maximum losses with a generator. Not cyclic LR.

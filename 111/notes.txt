@@ -1,0 +1,2 @@
+Infilled experiment. Investigating using maximum losses; rather than raw generator losses. 
+Disregard validation losses - they are the highest errors in the images.

@@ -1,0 +1,1 @@
+Cyclic generator losses divided by their running means.
