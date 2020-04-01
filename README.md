@@ -5,7 +5,7 @@ This repository is a work in progress!
 Intelligent partial scanning transmission electron electron microscopy with reinforcement learning
 
 
-Important to create an empty `__init__.py` below `dnc` subdirectories to run the code.
+Note that it's important to add an empty `__init__.py` below `dnc` subdirectories to run the code.
 
 # Pretrained Models
 
