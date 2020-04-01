@@ -1,4 +1,4 @@
-# Intelligent Partial STEM
+# Adaptive Partial STEM
 
 This repository is a work in progress!
 
