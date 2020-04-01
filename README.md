@@ -16,3 +16,7 @@ To load the models, change the save location in the `checkpoint` file to your sa
 # Training Data
 
 Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki). Other dataset variants are also available.
+
+# Contact
+
+Jeffrey Ede: j.m.ede@warwick.ac.uk
