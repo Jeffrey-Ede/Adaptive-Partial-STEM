@@ -1,11 +1,16 @@
 # Adaptive Partial STEM
 
-This repository is a work in progress!
+This repository is for the preprint|paper "Partial Scanning Transmission Electron Microscopy with Deep Learning". It contains TensorFlow code for a multi-scale generative adversarial network that completes 512x512 electron micrographs from partial scans. For spiral scans selected by a binary mask with 1/17.9 px coverage and non-adversarial pre-training, it has a 3.8% root mean square intensity error.
 
 Intelligent partial scanning transmission electron electron microscopy with reinforcement learning
 
+<p align="center">
+  <img src="examples.png">
+</p>
 
-Note that it's important to add an empty `__init__.py` in `dnc` subdirectories to run our code.
+Examples show test set 1/23.04 px coverage adaptive partial scans, target outputs and generated partial scan completions for 96$\times$96 crops from STEM images.
+
+Important not: Add empty `__init__.py` files to `dnc` subdirectories to run code.
 
 # Pretrained Models
 
@@ -15,7 +20,7 @@ To load the models, change the save location in the `checkpoint` file to your sa
 
 # Training Data
 
-Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki). Other dataset variants are also available.
+Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki).
 
 # Contact
 
