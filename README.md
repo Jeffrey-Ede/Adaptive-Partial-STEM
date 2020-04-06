@@ -22,7 +22,7 @@ Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here]
 
 ## Misc Contents
 
-The front page has support vector graphiscs and python scripts used to create examples. In addition, `read_loss_log.py` is helpful to read loss logs output during training.
+The front page has support vector graphiscs and python scripts used to create figures. In addition, `read_loss_log.py` is helpful to read loss logs output during training.
 
 ## Contact
 
