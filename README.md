@@ -1,11 +1,9 @@
 # Adaptive Partial STEM
 
-This repository is for the preprint|paper "Partial Scanning Transmission Electron Microscopy with Deep Learning". It contains TensorFlow code for a multi-scale generative adversarial network that completes 512x512 electron micrographs from partial scans. For spiral scans selected by a binary mask with 1/17.9 px coverage and non-adversarial pre-training, it has a 3.8% root mean square intensity error.
-
-Intelligent partial scanning transmission electron electron microscopy with reinforcement learning
+This repository is for the preprint|paper "Adaptive Partial Scanning Transmission Electron Microscopy with Reinforcement Learning". It contains TensorFlow code to train recurrent actors and critics to cooperate with a convolutional generator to complete partial scans. 
 
 <p align="center">
-  <img src="examples.png">
+  <img src="examples.png", width="800">
 </p>
 
 Examples show test set 1/23.04 px coverage adaptive partial scans, target outputs and generated partial scan completions for 96$\times$96 crops from STEM images.
