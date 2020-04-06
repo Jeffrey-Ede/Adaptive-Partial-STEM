@@ -6,7 +6,7 @@ This repository is for the preprint|paper "Adaptive Partial Scanning Transmissio
   <img src="examples.png", width="800">
 </p>
 
-Examples show test set 1/23.04 px coverage adaptive partial scans, target outputs and generated partial scan completions for 96$\times$96 crops from STEM images.
+Examples show test set 1/23.04 px coverage adaptive partial scans, target outputs and generated partial scan completions for 96x96 crops from STEM images.
 
 Important not: Add empty `__init__.py` files to `dnc` subdirectories to run code.
 
