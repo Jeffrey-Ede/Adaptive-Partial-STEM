@@ -1,6 +1,6 @@
 # Adaptive Partial STEM
 
-This repository is for the [preprint](https://arxiv.org/abs/2004.02786)|paper "Adaptive Partial Scanning Transmission Electron Microscopy with Reinforcement Learning". It contains TensorFlow code to train recurrent actors and critics to cooperate with a convolutional generator to complete partial scans. 
+This repository is for the [preprint](https://arxiv.org/abs/2004.02786)|paper "Adaptive Partial Scanning Transmission Electron Microscopy with Reinforcement Learning". It contains TensorFlow code to train recurrent actors to cooperate with a convolutional generator to complete partial scans. 
 
 <p align="center">
   <img src="examples-hq.png">
@@ -16,7 +16,7 @@ Checkpoints for fully trained models are [here](https://drive.google.com/drive/f
 
 ## Training Data
 
-Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki).
+Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki). Other dataset variants are also available.
 
 ## Miscellaneous
 
