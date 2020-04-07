@@ -20,9 +20,9 @@ To load the models, change the save location in the `checkpoint` file to your sa
 
 Datasets containing 19769 STEM images cropped or downsampled to 96x96 are [here](https://github.com/Jeffrey-Ede/datasets/wiki).
 
-## Misc Contents
+## Miscellaneous
 
-The front page has support vector graphiscs and python scripts used to create figures. In addition, `read_loss_log.py` is helpful to read loss logs output during training.
+Our repository contains support vector graphiscs and python scripts used to create figures. In addition, `read_loss_log.py` is helpful to read loss logs output during training.
 
 ## Contact
 
