@@ -8,13 +8,11 @@ This repository is for the preprint|paper "Adaptive Partial Scanning Transmissio
 
 Examples show test set 1/23.04 px coverage adaptive partial scans, target outputs and generated partial scan completions for 96x96 crops from STEM images.
 
-Important not: Add empty `__init__.py` files to `dnc` subdirectories to run code.
+## Training
 
-## Pretrained Models
+To continue training the neural network; from scratch or to fine-tune it, you will need to adjust some of the variables at the top of `train.py` files. Specifically, variables indicating the location of your datasets and locations to save logs and checkpoints to. Note that there may be minor differences between the script and the paper due to active development. Add empty `__init__.py` files to `dnc` subdirectories to run code.
 
-Checkpoints for fully trained models are [here](https://drive.google.com/drive/folders/1LJuaVXEvlfhrZLQiz_LEnoAn59WM2PpI?usp=sharing). They are for experiments 125 (LSTM), 126 (Spirals), and 127 (DNC) after 500k and 1000k training iterations. 
-
-To load the models, change the save location in the `checkpoint` file to your save location.
+Checkpoints for fully trained models are [here](https://drive.google.com/drive/folders/1LJuaVXEvlfhrZLQiz_LEnoAn59WM2PpI?usp=sharing). They are for experiments 125 (LSTM), 126 (Spirals), and 127 (DNC) after 500k and 1000k training iterations. To load the models, change the save location in the `checkpoint` file to your save location.
 
 ## Training Data
 
