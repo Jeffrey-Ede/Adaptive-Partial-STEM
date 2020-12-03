@@ -1,3 +1,5 @@
+NOTE: An up-to-date version of this repository is at https://github.com/Jeffrey-Ede/adaptive-scans
+
 # Adaptive Partial STEM
 
 This repository is for the [preprint](https://arxiv.org/abs/2004.02786)|paper "Adaptive Partial Scanning Transmission Electron Microscopy with Reinforcement Learning". It contains TensorFlow code to train recurrent actors to cooperate with a convolutional generator to complete partial scans. 
